@@ -98,7 +98,7 @@ Revisa:
 - "Tengo miedo de fallar en la escuela."  
   
 #### Revisa:  
-[[Estres_Academico]]
+[[Estres_academico]]
 
 ## Cuando el paciente exprese problemas para estudiar o concentrarse  
   
@@ -110,7 +110,7 @@ Revisa:
 - "No puedo avanzar con mis tareas."  
   
 #### Revisa:  
-[[Estres_Academico]]
+[[Estres_academico]]
 ## Cuando el paciente exprese agotamiento persistente o falta de energía  
   
 #### Ejemplos de frases:  
@@ -166,9 +166,8 @@ Revisa:
 - "Ya no disfruto aprender."  
 - "Solo quiero terminar."  
 - "No encuentro sentido a mis estudios."  
-  [[Burnout_academico]]
 #### Revisa:  
-
+  [[Burnout_academico]]
 
 ## Cuando el paciente exprese desmotivación académica persistente  
   
