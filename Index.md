@@ -99,7 +99,7 @@ Revisa:
   
 #### Revisa:  
 [[Estres_academico]]
-
+[[]]
 ## Cuando el paciente exprese problemas para estudiar o concentrarse  
   
 #### Ejemplos de frases:  
